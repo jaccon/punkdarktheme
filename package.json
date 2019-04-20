@@ -1,0 +1,25 @@
+{
+    "name": "punk-dark-theme",
+    "displayName": "Punk Dark Theme",
+    "description": "The simple punk rocker dark theme ;-)",
+    "publisher": "jaccon",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Punk Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Punk Dark Theme-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^1.59.0"
+    }
+}
