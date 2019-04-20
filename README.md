@@ -2,9 +2,10 @@
 
 HyperTerm inspired VSCode theme with vivid syntaxcolors and a pitch black UI. _Drools on the floor.._
 
-![React/JS (Details)](https://github.com/HasseNasse/hyper-term-theme/static/js-detail.png)
+![ScreenShot Theme](static/1.png)
+![ScreenShot Theme](static/2.png)
 
-[GitHub repository](https://github.com/HasseNasse/hyper-term-theme)
+[GitHub repository](https://github.com/jaccon/punkdarktheme)
 
 # CHANGELOG
 
