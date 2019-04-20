@@ -1,17 +1,16 @@
-# Punk Dark Theme
+# VSCode Punk Dark Theme
 
-HyperTerm inspired VSCode theme with vivid syntaxcolors and a pitch black UI. _Drools on the floor.._
+A theme for you to focus 100% on source code
 
-![ScreenShot Theme](static/1.png)
 ![ScreenShot Theme](static/2.png)
 
 [GitHub repository](https://github.com/jaccon/punkdarktheme)
 
-# CHANGELOG
+# Author
 
-[CHANGELOG.MD](https://github.com/HasseNasse/hyper-term-theme/blob/master/CHANGELOG.md)
+[CHANGELOG.MD](http://jaccon.com.br)
 
-# Docs & Contribute
+# Instructions
 
 1. Install the theme
 2. Reload VSCode
